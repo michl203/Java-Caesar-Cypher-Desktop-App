@@ -1,0 +1,7 @@
+CREATE TABLE User_Phrases (
+    PhraseID INT AUTO_INCREMENT PRIMARY KEY,
+    UserID INT,
+    Phrase_Text VARCHAR(255),
+    Creation_Date TIMESTAMP DEFAULT CURRENT_TIMESTAMP,
+    FOREIGN KEY (UserID) REFERENCES usercredentials(UserID)
+);

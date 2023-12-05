@@ -1,0 +1,6 @@
+CREATE TABLE UserCredentials (
+    UserID INT AUTO_INCREMENT PRIMARY KEY,
+    Username VARCHAR(50) NOT NULL UNIQUE,
+    PasswordHash VARCHAR(100) NOT NULL,
+    Email VARCHAR(100)
+);
