@@ -75,10 +75,10 @@ The purpose of this project is to have a desktop application that enables users 
 ____________________________________________________________________________________________________________________________
 
 **STEPS TO RUN THE APPLICATION**
-1. Gather all the java files for this repository and doownload them onto your device.
-2. Go into your IDE and create a new Java package uisng the files from the repository.
+1. Gather all the java files for this repository and download them onto your device.
+2. Go into your IDE and create a new Java package using the files from the repository.
 3. Make your MySQl database using a similar schema to mine. Look at the SQL files provided in the repository.
-4. Change necessary parts of the source code suhc as the JDBC class information (make sure it pertains to your own database)
+4. Change necessary parts of the source code such as the JDBC class information (make sure it pertains to your own database)
 5. Once everything is connected, test the application in your IDE.
 6. Now, create a executeble JAR file for the application on your device in your IDE.
 7. After the JAR file is created you can go to its file path on your device, right click it, and create a shortcut for it.
