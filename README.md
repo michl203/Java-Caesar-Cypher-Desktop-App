@@ -64,7 +64,7 @@ https://youtu.be/qdWr7lWt3sg
 | Username       | Password   |
 |----------------|------------|
 | mich2438       | Ak7pirit   |
-| MrPutin12      | Hjj21wa!   |
+| Mrtin12      | Hjj21wa!   |
 | Krabs_Eugene   | iLuv$$$    |
 | agent_M        | j9sh2mQka  |
 ---
